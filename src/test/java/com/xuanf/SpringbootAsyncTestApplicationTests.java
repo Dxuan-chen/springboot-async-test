@@ -74,9 +74,5 @@ class SpringbootAsyncTestApplicationTests {
         helper.setFrom("1187922037@qq.com");
 
         mailSender.send(mimeMessage);
-
     }
-
-
-
 }
